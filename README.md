@@ -2,7 +2,7 @@
 
 Portfolio personnel, site statique en une page présentant mon profil d'architecte logiciel spécialisé en data et Spring.
 
-🔗 **Site en ligne :** https://ton-pseudo.github.io *(à mettre à jour une fois déployé)*
+🔗 **Site en ligne :** https://gnims228.github.io *(à mettre à jour une fois déployé)*
 
 ## Aperçu
 
