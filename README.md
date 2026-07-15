@@ -12,7 +12,8 @@ Design minimaliste inspiré des plans techniques (blueprint) : schéma d'archite
 
 ```
 .
-├── index.html   # page unique (HTML + CSS + JS embarqués)
+├── index.html   # structure de la page (le JS d'animation reste embarqué en bas du fichier)
+├── style.css    # toutes les feuilles de style
 └── README.md
 ```
 
